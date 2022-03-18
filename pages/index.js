@@ -21,7 +21,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi! I'm Sawan. Currently I am working as a <i style={{color:"light-green", fontFamily:"Inter"}}>Frontend Developer (ReactJS)</i> <b>@Mantra Labs</b>. 
+        <p>Hi! I'm Sawan. Currently I am working as a <i style={{color:"#03fc88", fontFamily:"Inter"}}>Frontend Developer (ReactJS)</i> <b>@Mantra Labs</b>. 
         You can connect me in <a href='https://www.linkedin.com/in/sawan-kumar-das-b1511a1ab/'>
         LinkedIn</a> and follow on <a href='https://twitter.com/Das5Sawan'>Twitter</a></p>
         <p>
